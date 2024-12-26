@@ -1,8 +1,8 @@
 ## Hi there 👋 ! I'm Axel López López
 
-# About me
+## About me
 
-#Technology
+## Technology
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,7 +14,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#Contact me
+## Roadmap
+[![roadmap.sh](https://roadmap.sh/card/tall/675793e5ecc889bb0d9a3228?variant=dark)](https://roadmap.sh)
+
+## Contact me
 Email: axellolopez@gmail.com
 
 <!--
@@ -31,5 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![roadmap.sh](https://roadmap.sh/card/tall/675793e5ecc889bb0d9a3228?variant=dark)](https://roadmap.sh)
