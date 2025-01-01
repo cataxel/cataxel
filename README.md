@@ -19,6 +19,7 @@
 
 ## Contact me
 Email: axellolopez@gmail.com
+CV page: [https://cataxel.github.io/Single-Page-CV/CV.html](https://cataxel.github.io/Single-Page-CV/CV.html)
 
 <!--
 **cataxel/cataxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
